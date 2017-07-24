@@ -1,5 +1,4 @@
-很多的前端框架都支持数据双向绑定了，最近正好在看双向绑定的实现，就用Javascript写了几个简单的例子。
-
+参考WilberTian/Two-way-data-binding，使用Javascript完成双向数据绑定。
 几个例子中尝试使用了下面的方式实现双向绑定：
 
 1. 发布/订阅模式
